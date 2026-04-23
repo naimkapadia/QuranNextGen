@@ -1,7 +1,11 @@
 {
   "city": "Quran Radio",
   "stations": [
-  
+ {
+      "name": "Abdullah Abualnaja",
+      "url": "http://www.codeform3d.com/Al-Anam Abdullah Abualnaja.wav.wav"
+    },
+    
     {
       "name": "AlHaarith-Yasin",
       "url": "http://www.codeform3d.com/Yasin AlHaarith.wav"
