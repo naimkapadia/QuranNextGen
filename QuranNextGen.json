@@ -3,32 +3,32 @@
   "stations": [
  {
       "name": "Abdullah Abualnaja",
-      "url": "http://www.codeform3d.com/Al-Anam Abdullah Abualnaja.wav"
+      "url": "http://www.codeform3d.com/Qurannextgen/Al-Anam Abdullah Abualnaja.wav"
     },
     
     {
       "name": "AlHaarith-Yasin",
-      "url": "http://www.codeform3d.com/Yasin AlHaarith.wav"
+      "url": "http://www.codeform3d.com/Qurannextgen/Yasin AlHaarith.wav"
     },
     {
       "name": "AlHaarith-Fath",
-      "url": "http://www.codeform3d.com/Fath AlHaarith.wav"
+      "url": "http://www.codeform3d.com/Qurannextgen/Fath AlHaarith.wav"
     },
     {
       "name": "IbiIdris-Taha",
-      "url": "http://www.codeform3d.com/Taha ibiidris.wav"
+      "url": "http://www.codeform3d.com/Qurannextgen/Taha ibiidris.wav"
     },
     {
       "name": "IbiIdris-Isra",
-      "url": "http://www.codeform3d.com/Isra ibiidris.wav"
+      "url": "http://www.codeform3d.com/Qurannextgen/Isra ibiidris.wav"
     },
     {
       "name": "new",
-      "url": "http://www.codeform3d.com/Q005.wav"
+      "url": "http://www.codeform3d.com/Qurannextgen/Q005.wav"
     },
        {
       "name": "new 2",
-      "url": "http://www.codeform3d.com/Q060.wav"
+      "url": "http://www.codeform3d.com/Qurannextgen/Q060.wav"
     }
      ]
 }
