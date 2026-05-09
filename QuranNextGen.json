@@ -2,11 +2,11 @@
   "city": "Quran Radio",
   "stations": [
     {
-      "name": "Abdul Aziz Sahim.wav",
+      "name": "AbdulAzizSahim.wav",
       "url": "https://www.codeform3d.com/Qurannextgen/Abdul Aziz Sahim.wav"
     },
     {
-      "name": "Abdullah Abualnaja",
+      "name": "AbdullahAbualnaja",
       "url": "http://www.codeform3d.com/Qurannextgen/Al-Anam Abdullah Abualnaja.wav"
     },
     {
@@ -30,15 +30,15 @@
       "url": "http://www.codeform3d.com/Qurannextgen/Taha ibiidris.wav"
     },
     {
-      "name": "Ilyas Hijri",
+      "name": "IlyasHijri",
       "url": "https://www.codeform3d.com/Qurannextgen/Ilyas Hijri.wav"
     },
     {
-      "name": "Jaber Alqaytan albaqara.wav",
+      "name": "JaberAlqaytan-albaqara.wav",
       "url": "https://www.codeform3d.com/Qurannextgen/Jaber Alqaytan albaqara.wav"
     },
     {
-      "name": "Yunus Rahman",
+      "name": "YunusRahman",
       "url": "https://www.codeform3d.com/Qurannextgen/Yunusrahman.wav"
     }
   ]
