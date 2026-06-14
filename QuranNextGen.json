@@ -2,7 +2,28 @@
   "city": "Quran Radio",
   "stations": [
     {
-      "name": "AbdulAzizSahim.wav",
+      "name": "Mahmood Kirkuki Kahf",
+      "url": "https://www.codeform3d.com/Qurannextgen/Mahmood Kirkuki -Kahf.wav"
+    },
+     {
+      "name": "Mahmood Kirkuki-Yusuf",
+      "url": "https://www.codeform3d.com/Qurannextgen/Mahmood Kirkuki -Yusuf.wav"
+    },
+     {
+      "name": "Sh Hamza-Ihsaan",
+      "url": "https://www.codeform3d.com/Qurannextgen/Sh Hamza- Ihsaan.wav"
+    },
+     {
+      "name": "Sh Hamza-An-Nam",
+      "url": "https://www.codeform3d.com/Qurannextgen/Sh Hamza - An-Nam.wav"
+    },
+     {
+      "name": "Sh Hamza-Alqiyamah",
+      "url": "https://www.codeform3d.com/Qurannextgen/Sh Hamza-Alqiyamah.wav"
+    },
+      
+    {
+      "name": "AbdulAzizSahim",
       "url": "https://www.codeform3d.com/Qurannextgen/Abdul Aziz Sahim.wav"
     },
     {
