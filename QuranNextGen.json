@@ -3,36 +3,36 @@
   "stations": [
     {
       "name": "Mahmood Kirkuki Kahf",
-      "url": "https://www.codeform3d.com/Qurannextgen/Mahmood Kirkuki -Kahf.wav"
+      "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen/Mahmood Kirkuki -Kahf.wav"
     },
      {
       "name": "Mahmood Kirkuki-Yusuf",
-      "url": "https://www.codeform3d.com/Qurannextgen/Mahmood Kirkuki -Yusuf.wav"
+      "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen/Mahmood Kirkuki -Yusuf.wav"
     },
      {
       "name": "Sh Hamza-Ihsaan",
-      "url": "https://www.codeform3d.com/Qurannextgen/Sh Hamza- Ihsaan.wav"
+      "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen/Sh Hamza- Ihsaan.wav"
     },
      {
       "name": "Sh Hamza-An-Nam",
-      "url": "https://www.codeform3d.com/Qurannextgen/Sh Hamza - An-Nam.wav"
+      "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen/Sh Hamza - An-Nam.wav"
     },
      {
       "name": "Sh Hamza-Alqiyamah",
-      "url": "https://www.codeform3d.com/Qurannextgen/Sh Hamza-Alqiyamah.wav"
+      "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen/Sh Hamza-Alqiyamah.wav"
     },
       
     {
       "name": "AbdulAzizSahim",
-      "url": "https://www.codeform3d.com/Qurannextgen/Abdul Aziz Sahim.wav"
+      "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen/Abdul Aziz Sahim.wav"
     },
     {
       "name": "AbdullahAbualnaja",
-      "url": "http://www.codeform3d.com/Qurannextgen/Al-Anam Abdullah Abualnaja.wav"
+      "url": "https://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen/Al-Anam Abdullah Abualnaja.wav"
     },
     {
       "name": "Abdullahmahsoum",
-      "url": "http://www.codeform3d.com/Qurannextgen/Abdullahmahsoum.wav"
+      "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen//Abdullahmahsoum.wav"
     },
       {
       "name": "AlHaarith-Kahf",
@@ -44,11 +44,11 @@
     },
     {
       "name": "AlHaarith-Yasin",
-      "url": "http://www.codeform3d.com/Qurannextgen/Yasin AlHaarith.wav"
+      "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen/Yasin AlHaarith.wav"
     },
     {
       "name": "IbiIdris-Isra",
-      "url": "http://www.codeform3d.com/Qurannextgen/Isra ibiidris.wav"
+      "url": "https://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen/Isra ibiidris.wav"
     },
     {
       "name": "IbiIdris-Taha",
@@ -56,15 +56,15 @@
     },
     {
       "name": "IlyasHijri",
-      "url": "https://www.codeform3d.com/Qurannextgen/Ilyas Hijri.wav"
+      "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen/Ilyas Hijri.wav"
     },
     {
       "name": "JaberAlqaytan-albaqara.wav",
-      "url": "https://www.codeform3d.com/Qurannextgen/Jaber Alqaytan albaqara.wav"
+      "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen/Jaber Alqaytan albaqara.wav"
     },
     {
       "name": "YunusRahman",
-      "url": "https://www.codeform3d.com/Qurannextgen/Yunusrahman.wav"
+      "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen/Yunusrahman.wav"
     }
   ]
 }
