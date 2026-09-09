@@ -2,23 +2,23 @@
   "city": "Quran Radio",
   "stations": [
     {
-      "name": "Mahmood Kirkuki Kahf",
+      "name": "MahmoodKirkukiKahf",
       "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen/MahmoodKirkukiKahf.wav"
     },
      {
-      "name": "Mahmood Kirkuki-Yusuf",
+      "name": "MahmoodKirkukiYusuf",
       "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen/MahmoodKirkukiYusuf.wav"
     },
      {
-      "name": "Sh Hamza-Ihsaan",
+      "name": "ShHamzaIhsaan",
       "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen/ShHamzaIhsaan.wav"
     },
      {
-      "name": "Sh Hamza-An-Nam",
+      "name": "ShHamzaAnNam",
       "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen/ShHamzaAnNam.wav"
     },
      {
-      "name": "Sh Hamza-Alqiyamah",
+      "name": "ShHamzaAlqiyamah",
       "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen/ShHamzaAlqiyamah.wav"
     },
       
@@ -35,23 +35,23 @@
       "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen//Abdullahmahsoum.wav"
     },
       {
-      "name": "AlHaarith-Kahf",
+      "name": "AlHaarithKahf",
       "url": "https://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen/KahfAlhaarith.wav"
     },
     {
-      "name": "AlHaarith-Fath",
+      "name": "AlHaarithFath",
       "url": "http://www.codeform3d.com/Qurannextgen/FathAlHaarith.wav"
     },
     {
-      "name": "AlHaarith-Yasin",
+      "name": "AlHaarithYasin",
       "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen/YasinAlHaarith.wav"
     },
     {
-      "name": "IbiIdris-Isra",
+      "name": "IbiIdrisIsra",
       "url": "https://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen/Israibiidris.wav"
     },
     {
-      "name": "IbiIdris-Taha",
+      "name": "IbiIdrisTaha",
       "url": "http://www.codeform3d.com/Qurannextgen/Tahaibiidris.wav"
     },
     {
@@ -59,7 +59,7 @@
       "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen/IlyasHijri.wav"
     },
     {
-      "name": "JaberAlqaytan-albaqara.wav",
+      "name": "JaberAlqaytanalbaqara.wav",
       "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen/JaberAlqaytanalbaqara.wav"
     },
     {
