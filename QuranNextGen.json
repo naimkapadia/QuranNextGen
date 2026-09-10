@@ -2,8 +2,8 @@
   "city": "Quran Radio",
   "stations": [
     {
-      "name": "mp31MahmoodKirkukiKahf",
-      "url": "https://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen/MahmoodKirkukiKahf.mp3"
+      "name": "MahmoodKirkukiKahf",
+      "url": "https://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/NextGen/MahmoodKirkukiKahf.wav"
     },
      {
       "name": "MahmoodKirkukiYusuf",
