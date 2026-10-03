@@ -60,7 +60,7 @@
     },
         {
       "name": "Qari Mohammed Haarith Qiyamah",
-      "url": "http://192.168.68.120:8000/qurannextgen/Qari MohammedHaarithQiyamah.mp3"
+      "url": "http://192.168.68.120:8000/qurannextgen/QariMohammedHaarithQiyamah.mp3"
     },
                 {
       "name": "Qari Shahat Arrahman",
@@ -76,15 +76,15 @@
     },
         {
       "name": "Sheikh Hamza Alqiyamah",
-      "url": "http://192.168.68.120:8000/qurannextgen/nuf002.mp3"
+      "url": "http://192.168.68.120:8000/qurannextgen/SheikhHamzaAlqiyamah.mp3"
     },
                 {
       "name": "Sheikh Hamza AnNam",
-      "url": "http://192.168.68.120:8000/qurannextgen/hai002.mp3"
+      "url": "http://192.168.68.120:8000/qurannextgen/SheikhHamzaAnNam.mp3"
     },
         {
       "name": "Sheikh Hamza Ihsaan",
-      "url": "http://192.168.68.120:8000/qurannextgen/nuf002.mp3"
+      "url": "http://192.168.68.120:8000/qurannextgen/SheikhHamzaIhsaan.mp3"
     }
             ]
 }
