@@ -1,9 +1,17 @@
 {
-  "city": "Quran Radio",
+  "city": "QuranNextGen",
   "stations": [
-   {
-      "name": "QuranNextGen",
-      "url": "http://livemasjid.net/nkdigitalsignage.mp3"
-    }
+           {
+      "name": "Ahmedalnufais",
+      "url": "http://192.168.68.120:8000/nuf002.mp3"
+    },
+                {
+      "name": "Haithamaldukain",
+      "url": "http://192.168.68.120:8000/hai002.mp3"
+    },
+    {
+      "name": "MisharialAfasi",
+      "url": "http://192.168.68.120:8000/mis002.mp3"
+    } 
   ]
 }
