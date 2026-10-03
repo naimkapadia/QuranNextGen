@@ -7,84 +7,84 @@
     },
                 {
       "name": "Qari Abdul Baset Duha",
-      "url": "http://192.168.68.120:8000/hai002.mp3"
+      "url": "http://192.168.68.120:8000/qurannextgen/QariAbdulBasetDuha.mp3"
     },
     {
       "name": "Qari Abdul Baset Waqia",
-      "url": "http://192.168.68.120:8000/hai002.mp3"
+      "url": "http://192.168.68.120:8000/qurannextgen/QariAbdulBasetWaqia.mp3"
     },
     
     {
       "name": "Qari Abdullah Abualnaja Al-Anam",
-      "url": "http://192.168.68.120:8000/mis002.mp3"
+      "url": "http://192.168.68.120:8000/qurannextgen/Qari AbdullahAbualnajaAlAnam.mp3"
     }, 
     {
       "name": "Qari Abdullah Mahsoum",
-      "url": "http://192.168.68.120:8000/nuf002.mp3"
+      "url": "http://192.168.68.120:8000/qurannextgen/QariAbdullahMahsoum.mp3"
     },
                 {
       "name": "Qari Ayub Asif",
-      "url": "http://192.168.68.120:8000/hai002.mp3"
+      "url": "http://192.168.68.120:8000/qurannextgen/QariAyubAsif.mp3"
     },
         {
       "name": "Qari Hindawi Maryam",
-      "url": "http://192.168.68.120:8000/nuf002.mp3"
+      "url": "http://192.168.68.120:8000/qurannextgen/QariHindawiMaryam.mp3"
     },
                 {
       "name": "Qari Ibi idris Isra",
-      "url": "http://192.168.68.120:8000/hai002.mp3"
+      "url": "http://192.168.68.120:8000/qurannextgen/QariIbiidrisIsra.mp3"
     },
         {
       "name": "Qari Ibi Idris Taha",
-      "url": "http://192.168.68.120:8000/nuf002.mp3"
+      "url": "http://192.168.68.120:8000/qurannextgen/QariIbiIdrisTaha.mp3"
     },
                 {
       "name": "Qari Ilyas Hijri",
-      "url": "http://192.168.68.120:8000/hai002.mp3"
+      "url": "http://192.168.68.120:8000/qurannextgen/QariIlyasHijri.mp3"
     },
         {
       "name": "Qari Jaber Alqaytanal Baqara",
-      "url": "http://192.168.68.120:8000/nuf002.mp3"
+      "url": "http://192.168.68.120:8000/qurannextgen/QariJaberAlqaytanalBaqara.mp3"
     },
                 {
       "name": "Qari Mahmood Kirkuki Kahf",
-      "url": "http://192.168.68.120:8000/hai002.mp3"
+      "url": "http://192.168.68.120:8000/qurannextgen/QariMahmoodKirkukiKahf.mp3"
     },
         {
       "name": "Qari Mohammed Haarith Fath",
-      "url": "http://192.168.68.120:8000/nuf002.mp3"
+      "url": "http://192.168.68.120:8000/qurannextgen/QariMohammedHaarithFath.mp3"
     },
                 {
       "name": "Qari Mohammed Haarith Kahf",
-      "url": "http://192.168.68.120:8000/hai002.mp3"
+      "url": "http://192.168.68.120:8000/qurannextgen/QariMohammedHaarithKahf.mp3"
     },
         {
       "name": "Qari Mohammed Haarith Qiyamah",
-      "url": "http://192.168.68.120:8000/nuf002.mp3"
+      "url": "http://192.168.68.120:8000/qurannextgen/Qari MohammedHaarithQiyamah.mp3"
     },
                 {
       "name": "Qari Shahat Arrahman",
-      "url": "http://192.168.68.120:8000/hai002.mp3"
+      "url": "http://192.168.68.120:8000/qurannextgen/QariShahatArrahman.mp3"
     },
         {
       "name": "Qari Yunus Rahman Taraweeh",
-      "url": "http://192.168.68.120:8000/nuf002.mp3"
+      "url": "http://192.168.68.120:8000/qurannextgen/QariYunusRahmanTaraweeh.mp3"
     },
                 {
       "name": "Qari Yunus Rahman",
-      "url": "http://192.168.68.120:8000/hai002.mp3"
+      "url": "http://192.168.68.120:8000/qurannextgen/QariYunusRahman.mp3"
     },
         {
       "name": "Sheikh Hamza Alqiyamah",
-      "url": "http://192.168.68.120:8000/nuf002.mp3"
+      "url": "http://192.168.68.120:8000/qurannextgen/nuf002.mp3"
     },
                 {
       "name": "Sheikh Hamza AnNam",
-      "url": "http://192.168.68.120:8000/hai002.mp3"
+      "url": "http://192.168.68.120:8000/qurannextgen/hai002.mp3"
     },
         {
       "name": "Sheikh Hamza Ihsaan",
-      "url": "http://192.168.68.120:8000/nuf002.mp3"
+      "url": "http://192.168.68.120:8000/qurannextgen/nuf002.mp3"
     }
             ]
 }
